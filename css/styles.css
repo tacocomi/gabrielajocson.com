@@ -1,0 +1,26 @@
+/* this is my first stylesheet */
+.kermit {
+    text-align: center
+}
+h1 {
+    font-family: Helvetica;
+    font-size: 50px;
+    color: #CCCCFF;
+}
+p {
+    font-family: Helvetica;
+
+}
+ul li {
+    display: inline;
+    font-size: 20px;
+    font-family: Helvetica;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+ul.menu li a {
+    text-decoration: none
+}
+ul.menu li a:hover {
+    color: #CCCCFF;
+}
